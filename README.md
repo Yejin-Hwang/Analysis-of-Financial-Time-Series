@@ -1,6 +1,6 @@
 # Analysis-of-Financial-Time-Series
 
-# Financial Time Series Analysis using ARIMA, Google Timesfm, Amazon Chronos
+# Predicting Stock Prices using ARIMA, Google Timesfm, Amazon Chronos
 
 ## Project Overview
 This project provides a comprehensive analysis of financial time series data using **ARIMA, Google Timesfm, Amazon Chronos** models.  
